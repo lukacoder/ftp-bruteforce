@@ -1,2 +1,4 @@
 # ftp-bruteforce
-python ftp brute force tool 
+PYTHON FTP BRUTE FORCE TOOL 
+
+usage : python ftpbf.py host_ip wordlist.txt
